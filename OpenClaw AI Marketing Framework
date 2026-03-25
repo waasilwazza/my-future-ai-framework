@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenClaw AI Marketing Framework</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f7f6; color: #333; line-height: 1.6; padding: 20px; }
+        .container { max-width: 900px; margin: auto; background: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; text-align: center; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        .phase-container { display: flex; flex-direction: column; gap: 20px; margin-top: 30px; }
+        .phase-card { border-left: 5px solid #3498db; background: #eef7fd; padding: 15px 20px; border-radius: 0 10px 10px 0; position: relative; }
+        .phase-card h3 { margin-top: 0; color: #2980b9; }
+        .badge { background: #3498db; color: white; padding: 3px 10px; border-radius: 20px; font-size: 0.8em; font-weight: bold; }
+        .tech-stack { font-size: 0.9em; color: #666; font-style: italic; margin-top: 10px; }
+        .status-ready { color: #27ae60; font-weight: bold; }
+        .connector { text-align: center; font-size: 20px; color: #bdc3c7; margin: -10px 0; }
+        .footer { text-align: center; margin-top: 30px; font-size: 0.9em; color: #7f8c8d; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🚀 OpenClaw: Fasa Evolusi AI Agent</h1>
+    
+    <div class="phase-container">
+        <div class="phase-card">
+            <span class="badge">FASA 1: THE CLOUD BRAIN</span>
+            <h3>🧠 Penubuhan Asas (Internship)</h3>
+            <p>Menjalankan OpenClaw di Laptop menggunakan kuasa <strong>Claude API</strong>. Fokus pada hasil kerja marketing yang pantas.</p>
+            <div class="tech-stack">Hardware: Laptop Sedia Ada | Brain: Claude 3.5 Sonnet (API)</div>
+            <p class="status-ready">✓ Status: Sedia untuk Bermula</p>
+        </div>
+
+        <div class="connector">⬇️</div>
+
+        <div class="phase-card" style="border-left-color: #9b59b6; background: #f5eef8;">
+            <span class="badge" style="background: #9b59b6;">FASA 2: THE VAULT</span>
+            <h3>💾 Integrasi Memori NAS</h3>
+            <p>Memindahkan database dan "Knowledge Base" (fail produk/marketing) ke <strong>NAS</strong> supaya data kekal selamat & terpusat.</p>
+            <div class="tech-stack">Storage: Network Attached Storage (NAS) | Data: PDF/Excel Training</div>
+        </div>
+
+        <div class="connector">⬇️</div>
+
+        <div class="phase-card" style="border-left-color: #f1c40f; background: #fef9e7;">
+            <span class="badge" style="background: #f1c40f; color: #333;">FASA 3: HYBRID MODE</span>
+            <h3>🤖 Latihan Model Lokal</h3>
+            <p>Mula menggunakan <strong>Llama 3/Mistral</strong> secara lokal untuk kerja rutin. Claude hanya digunakan untuk tugas kritikal.</p>
+            <div class="tech-stack">Engine: Ollama / LM Studio | Strategy: Cost Reduction</div>
+        </div>
+
+        <div class="connector">⬇️</div>
+
+        <div class="phase-card" style="border-left-color: #e74c3c; background: #fdedec;">
+            <span class="badge" style="background: #e74c3c;">FASA 4: FULL AUTONOMY</span>
+            <h3>🏢 Digital Marketing Office</h3>
+            <p>Upgrade hardware (Mac Mini/PC GPU). AI Agent berjalan 24/7 secara automatik sepenuhnya dari NAS.</p>
+            <div class="tech-stack">Target: 64GB RAM / RTX 50-series | Goal: 100% Ownership</div>
+        </div>
+    </div>
+
+    <div class="footer">
+        "Data anda, Kawalan anda, Masa depan anda."
+    </div>
+</div>
+
+</body>
+</html>
